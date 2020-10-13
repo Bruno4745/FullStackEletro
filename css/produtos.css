@@ -1,0 +1,38 @@
+.categoria {
+    padding-left: 10px;
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.produtos {
+    display: inline-block;
+    width: 77%;
+}
+
+.produto_unidade {
+    width: 230px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.produto_unidade img {
+    width: 120px;
+}
+
+.nome_produto {
+    font-size: small;
+}
+
+.preco_antigo {
+    font-size: small;
+    text-decoration: line-through;
+    display: inline;
+}
+
+.preco_novo {
+    font-size: large;
+    color: red;
+    display: inline;
+}

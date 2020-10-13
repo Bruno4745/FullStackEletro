@@ -1,0 +1,22 @@
+.contato {
+    text-align: center;
+    padding: 25px 0;
+}
+
+.forma_contato {
+    width: 45%;
+    display: inline-block;
+    font-size: large;
+}
+
+.forma_contato img {
+    width: 50px;
+}
+
+.formulario {
+    margin-left: 8px;
+}
+
+.campo_formulario input, textarea{
+    width: 30%;
+}
