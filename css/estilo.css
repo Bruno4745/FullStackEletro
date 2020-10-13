@@ -12,13 +12,17 @@ header, main {
     background-color: rgb(242, 8, 8);
 }
 
-#menu a{
+#menu a {
     color: white;
     text-decoration: none;
     width: 24%;
     display: inline-block;
     text-align: center;
 } 
+
+#menu a:hover {
+    font-weight: bold;
+}
 
 #menu a img {
     width: 100px;

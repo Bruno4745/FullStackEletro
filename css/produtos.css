@@ -5,6 +5,11 @@
     vertical-align: top;
 }
 
+.categoria li:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
 .produtos {
     display: inline-block;
     width: 77%;
